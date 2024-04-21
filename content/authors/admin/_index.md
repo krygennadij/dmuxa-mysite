@@ -49,20 +49,20 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: FDS
         description: ''
-        percent: 20
-        icon: python
-        icon_pack: fab
-      - name: Ansys Mechanical
+        percent: 80
+        icon: fire
+        icon_pack: fas
+      - name: Ansys
         description: ''
         percent: 90
-        icon: chart-line
+        icon: temperature-high
         icon_pack: fas
       - name: LaTeX
         description: ''
         percent: 40
-        icon: database
+        icon: laptop-code
         icon_pack: fas
    
   - name: Hobbies
@@ -72,17 +72,17 @@ skills:
       - name: Sport
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: dumbbell
         icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Bicycle
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: bicycle
         icon_pack: fas
 
 # Social/Academic Networking
