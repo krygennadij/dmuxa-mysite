@@ -88,7 +88,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: Достижения
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -169,11 +169,11 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: All
+        - name: Все
           tag: '*'
-        - name: Deep Learning
+        - name: ОФП
           tag: Deep Learning
-        - name: Other
+        - name: Огнестойкость
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -183,7 +183,7 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: Галлерея
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
@@ -192,7 +192,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Избранные публикации
       filters:
         folders:
           - publication
@@ -217,7 +217,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Последние и предстоящие выступления
       filters:
         folders:
           - event
@@ -226,7 +226,7 @@ sections:
       view: compact
   - block: tag_cloud
     content:
-      title: Popular Topics
+      title: Популярное
     design:
       columns: '2'
   - block: contact
@@ -237,9 +237,9 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: dmuxa@ebk.ru
       phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      appointment_url: 'https://preeminent-dieffenbachia-a34397.netlify.app/'
       address:
         street: 450 Serra Mall
         city: Stanford
@@ -249,12 +249,12 @@ sections:
         country_code: US
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Понедельник 09:00 to 18:00'
+        - 'Пятница 09:00 to 18:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '55.825777188575856'
+        longitude: '37.64986678068112'  
       contact_links:
         - icon: twitter
           icon_pack: fab
