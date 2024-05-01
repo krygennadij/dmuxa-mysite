@@ -47,7 +47,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Технические навыки
     items:
       - name: FDS
         description: ''
@@ -65,7 +65,7 @@ skills:
         icon: laptop-code
         icon_pack: fas
    
-  - name: Hobbies
+  - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -119,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Gennady Igorevich Kruchkov is a researcher at the GPS Academy of the Russian Ministry of Emergency Situations. His research interests include fire resistance of building structures, calculation of fire hazards, safe evacuation of people. He leads a group of researchers who perform calculations in Ansys Mechanical, Ansys Fluent, Pyrosim, Pathfinder and other software packages.
+Геннадий Игоревич Крючков - научный сотрудник Академии ГПС МЧС России. Сфера научных интересов - огнестойкость строительных конструкций, расчет опасных факторов пожара, безопасная эвакуация людей. Он руководит группой исследователей, выполняющих расчеты в Ansys Mechanical, Ansys Fluent, Pyrosim, Pathfinder и других программных комплексах.
 {style="text-align: justify;"}
