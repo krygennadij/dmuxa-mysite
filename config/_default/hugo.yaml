@@ -10,7 +10,7 @@ baseURL: 'https://preeminent-dieffenbachia-a34397.netlify.app/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ru
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
