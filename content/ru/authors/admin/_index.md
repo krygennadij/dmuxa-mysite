@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Site G.Kruchkov
+title: Сайт Г. Крючкова
 
 # Name pronunciation (optional)
-name_pronunciation: Gennady Kruchkov 
+name_pronunciation: Геннадий Крючков 
 
 # Full name (for SEO)
-first_name: Gennady
-last_name: Kruchkov
+first_name: Геннадий
+last_name: Крючков
 
 # Status emoji
 status:
