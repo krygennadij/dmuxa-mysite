@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Сайт Г. Крючкова
+title: Сайт Геннадия Крючкова
 
 # Name pronunciation (optional)
-name_pronunciation: Геннадий Крючков 
+# name_pronunciation:
 
 # Full name (for SEO)
 first_name: Геннадий
@@ -17,30 +17,30 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Specialist in the field of fire safety
+role: Специалист в области пожарной безопасности
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Academy of GPS of the EMERCOM of Russia
+  - name: Академия ГПС МЧС России
     url: https://academygps.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: В сферу моих научных интересов входят все виды расчётов в области пожарной безопасности.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Преподавание
+  - Расчётные-обоснования пределов огнестойкости строительных конструкций
+  - Расчёты пожарных рисков
 
 # Education to show in About widget
 education:
   courses:
-    - course: Research Associate
-      institution: The Academy of GPS of the EMERCOM of Russia
+    - course: Научный сотрудник
+      institution: Академия ГПС МЧС России
       year: 2023
-    - course: Specialist
-      institution: The Academy of GPS of the EMERCOM of Russia
+    - course: Специалист в области пожарной безопасности
+      institution: Академия ГПС МЧС России
       year: 2018
 
 
