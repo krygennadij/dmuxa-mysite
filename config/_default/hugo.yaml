@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: WebSite G.Kruchkov # Website name
+title: WebSite Gennady Kruchkov # Website name
 baseURL: 'https://preeminent-dieffenbachia-a34397.netlify.app/' # Website URL
 
 ############################
